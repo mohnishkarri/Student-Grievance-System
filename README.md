@@ -1,8 +1,8 @@
 # Student-Grievance-System
 
 •This was a Smart India Hackathon (SIH) project created for Andhra Pradesh State Governament to manage the complaints filed by the Students.
-•
-In colleges if anyone wants to raise complaint then one has to write on a paper and wait for the respond to whom it’s
+
+•In colleges if anyone wants to raise complaint then one has to write on a paper and wait for the respond to whom it’s
 addressed.
 •
 Student has to signup/login and raise complain about the issues he finds.
